@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jdbc-configuration>
+    <url>jdbc:mysql://localhost:3306/PASTER</url>
+    <username>root</username>
+    <password>españa1215</password>
+</jdbc-configuration>
